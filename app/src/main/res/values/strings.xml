@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atividade Rec</string>
+
+    <!-- String Menu -->
+    <string name="openDrawer">Abrir Menu</string>
+    <string name="closeDrawer">Fechar Menu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
