@@ -1,2 +1,2 @@
-# Meus-Lambretes
+# Meus-Lembretes
 Simples aplicação Android para aprendizado.
