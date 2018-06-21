@@ -76,6 +76,9 @@ public class Home extends AppCompatActivity {
         if( Singleton.getInstance().getListNotas().size() == 0 ){
             SemLembrete frag = new SemLembrete();
             getSupportFragmentManager().beginTransaction().replace(R.id.home_container, frag).commit();
+        } else {
+            ListaLembretes frag = new ListaLembretes();
+            getSupportFragmentManager().beginTransaction().replace(R.id.home_container, frag).commit();
         }
 
         // Listener do Menu Hamburger
